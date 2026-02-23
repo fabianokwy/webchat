@@ -1,6 +1,8 @@
 # 📝 Log de Atualizações 
 
 ## 6.6.2 - 23/02/2026
+- Recurso adicionado Log de Status e controle visual das etapas
+- Recurso adicionado Notas inseridas no ticket de maneira global
 - Suporte a envio de Multi-Arquivos
 - Renderização visual na mesma tela arquivos Pdf
 - Bloqueio de criação de Tags na tela do ticket para User - admin liberado
