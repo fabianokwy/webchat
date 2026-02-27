@@ -1,5 +1,15 @@
 # 📝 Log de Atualizações 
 
+## 6.6.3 - 27/02/2026
+- Recurso Melhorado tratamento de grupos separados por filas
+- Somente usuarios participante da fila podera ver os seus atendimentos, e todos os aguardando que nao possuem fila
+- Novo visual dos botões de transferencia / aceitar / reabrir e fechar
+- Removido botao de transferir ou fechar para grupos
+- Recurso Adicionado, ao aceitar um ticket de grupo abre uma nova janela para selecionar a fila de destino
+- Novo recurso adicionado ao agendamento, agora todas as mensagems agendadas carregam o nome do usuário e a fila / setor
+- Ajuste na busca interna de Fuso-Horario para Cuiaba/MT
+- 
+
 ## 6.6.2 - 23/02/2026
 - Recurso adicionado Log de Status e controle visual das etapas
 - Recurso adicionado Notas inseridas no ticket de maneira global
