@@ -6,8 +6,8 @@
 - Novo visual dos botões de transferencia / aceitar / reabrir e fechar
 - Removido botao de transferir ou fechar para grupos
 - Recurso Adicionado, ao aceitar um ticket de grupo abre uma nova janela para selecionar a fila de destino
-- Novo recurso adicionado ao agendamento, agora todas as mensagems agendadas carregam o nome do usuário e a fila / setor
-- Ajuste na busca interna de Fuso-Horario para Cuiaba/MT
+- Novo recurso adicionado ao agendamento, agora todas as mensagens agendadas carregam o nome do usuário e a fila / setor
+- Ajuste na busca interna de Fuso-Horario para America/Cuiaba
 - Correção arquivos sumindo após o envio da mensagem em encaminhamentos para audio
 
 ## 6.6.2 - 23/02/2026
