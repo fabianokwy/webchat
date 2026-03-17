@@ -1,5 +1,10 @@
 # 📝 Log de Atualizações 
 
+## 6.6.3 - 17/03/2026
+- Funcionalidade adicionada agora antes de enviar o audio, pode escutar e depois enviar!
+- Correção na quando o usuario nao seleciona uma opção estava caindo diretamente na 1° fila, agora sempre na sala de espera.
+- Correção na estabilidade.
+  
 ## 6.6.3 - 27/02/2026
 - Recurso Melhorado tratamento de grupos separados por filas
 - Somente usuarios participante da fila podera ver os seus atendimentos, e todos os aguardando que nao possuem fila
