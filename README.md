@@ -1,5 +1,10 @@
 # 📝 Log de Atualizações 
 
+## 6.3.4 - 23/03/2026
+- Integração Botvendas para criar atendimentos automaticamente
+- Adicionando notas referente ao pedido criado diretamente no chat
+- Opcional fechamento do atendimento quando criar via integração. ( cliente ja mandou a receita ou solicitação)
+
 ## 6.6.3 - 17/03/2026
 - Funcionalidade adicionada agora antes de enviar o audio, pode escutar e depois enviar!
 - Correção na quando o usuario nao seleciona uma opção estava caindo diretamente na 1° fila, agora sempre na sala de espera.
