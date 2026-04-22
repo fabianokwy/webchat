@@ -1,5 +1,10 @@
 # 📝 Log de Atualizações 
 
+## 6.3.5 - 22/04/2026
+- Atualização na captura de usuarios quando ja existem, permissao concedida para usuarios comuns.
+- Nova janela inclui notas ao capturar um atendimento ja com outro usuario permitindo a captura.
+
+
 ## 6.3.4 - 23/03/2026
 - Integração Botvendas para criar atendimentos automaticamente
 - Adicionando notas referente ao pedido criado diretamente no chat
